@@ -1,5 +1,5 @@
 [package]
-name = "wasm-lif"
+name = "wasm-life"
 version = "0.1.0"
 authors = ["Sam Scott-Hake <sam_hake@live.co.uk>"]
 edition = "2018"
